@@ -32,4 +32,6 @@ The bot was a part of my minor project, and it was submitted on 10th February 20
 Hopefully, it was praised by all the jury's and I thought of this idea at the time of Covid, and finally I executed it with my team.
 
 ### Pictures
-[!image](D:\Pictures\minor Project\IMG_20230210_095440.jpg)
+![IMG_20230210_095440](https://user-images.githubusercontent.com/60666490/223920415-bf26593f-5a08-46e7-b8cd-51d3b8b1ae7e.jpg)
+![IMG_20230210_095714](https://user-images.githubusercontent.com/60666490/223920785-523c3c29-28b4-48de-bc26-d6099a110df4.jpg)
+
