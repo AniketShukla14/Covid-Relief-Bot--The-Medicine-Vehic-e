@@ -26,3 +26,10 @@ During the pandemic, the whole world halted and were looking for ways to reduce 
  </li>
 <li>Use of handy Robots in the day-to-day life.</li>
 <li> To get a Robot in a minimal rate or affordable price.</li>
+
+### Some details 
+The bot was a part of my minor project, and it was submitted on 10th February 2023.
+Hopefully, it was praised by all the jury's and I thought of this idea at the time of Covid, and finally I executed it with my team.
+
+### Pictures
+[!image](D:\Pictures\minor Project\IMG_20230210_095440.jpg)
