@@ -18,4 +18,11 @@ A Line Following Robot is an autonomous robot which is able to follow either a b
 ### Motivation
 During the pandemic, the whole world halted and were looking for ways to reduce the infection from spreading more and the ones who were infected were isolated from others. This made it tough for doctors and nurses globally to treat their patients and get them medicines and food. For this, they had to wear a complete PPE kit every time to check the infected person. Therefore, to help doctors and the infected person get his medicines and food, we decided to make a bot that could run automatically in a room of covid patients. This will reduce the direct contact of a covid, or infected person's contact, with a non-infected one. 
 
-![image](https://user-images.githubusercontent.com/60666490/223916136-1dad1c7b-a760-4456-b679-8e7352969809.png)
+### Objective
+<li> To Provide medicines and food in the isolated wards.</li>
+<li> To help those people who are recovering in their respective homes.
+</li>
+<li>To protect the spread of disease.
+ </li>
+<li>Use of handy Robots in the day-to-day life.</li>
+<li> To get a Robot in a minimal rate or affordable price.</li>
