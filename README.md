@@ -5,7 +5,17 @@
 
 
 ### Basic Idea
-A Line Following Robot is an autonomous robot which is able to follow either a black line that is drawn on the surface consisting of a contrasting color. It is designed to move automatically and follow the line. The robot uses arrays of optical sensors to identify the line, thus assisting the robot to stay on the track. The array of four sensor makes its movement precise and flexible. The robot is driven by DC gear motors to control the movement of the wheels. The Arduino Uno interface is used to perform and implement algorithms to control the speed of the motors, steering the robot to travel along the line smoothly. This project aims to implement the algorithm and control the movement of the robot by proper tuning of the control parameters and thus achieve better performance. In addition, the LCD interface is added in order to display the distance travelled by the robot. It can be used industrial automated equipment carriers, small household applications, tour guides in museums and other similar applications, etc.
+A Line Following Robot is an autonomous robot which is able to follow either a black line that is drawn on the surface consisting of a contrasting color. It is designed to move automatically and follow the line. The robot uses arrays of optical sensors to identify the line, thus assisting the robot to stay on the track. The array of four sensor makes its movement precise and flexible. The robot is driven by DC gear motors to control the movement of the wheels. The Arduino Uno interface is used to perform and implement algorithms to control the speed of the motors, steering the robot to travel along the line smoothly. This project aims to implement the algorithm and control the movement of the robot by proper tuning of the control parameters and thus achieve better performance. In addition, the LCD interface is added in order to display the distance travelled by the robot. It can be used in industrial automated equipment carriers, small household applications, tour guides in museums and other similar applications, etc.
 
 ### Components used
 <li> Arduino </li>
+<li> Jumper Wire </li>
+<li> Motor Driver </li>
+<li> BO motors </li>
+<li> Batteries </li>
+<li> Infrared Sensors </li>
+
+### Motivation
+During the pandemic, the whole world halted and were looking for ways to reduce the infection from spreading more and the ones who were infected were isolated from others. This made it tough for doctors and nurses globally to treat their patients and get them medicines and food. For this, they had to wear a complete PPE kit every time to check the infected person. Therefore, to help doctors and the infected person get his medicines and food, we decided to make a bot that could run automatically in a room of covid patients. This will reduce the direct contact of a covid, or infected person's contact, with a non-infected one. 
+
+![image](https://user-images.githubusercontent.com/60666490/223916136-1dad1c7b-a760-4456-b679-8e7352969809.png)
